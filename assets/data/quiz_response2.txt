@@ -1,0 +1,5 @@
+{
+"text1" : "Você tem baixo risco de ter câncer de mama.",
+"divide" : "",
+"text2" : "Os sintomas que você assinalou de fato podem ter alguma relação com o câncer, mas o mais provável é que sejam sinais de problemas mais comuns e menos graves como displasia mamária, fibroadenoma ou mastite. O melhor é consultar um ginecologista ou mastologista para tirar suas dúvidas e identificar o diagnóstico, iniciando o tratamento mais adequado.", 
+"text3" : "\n\nO teste de sintomas é uma ferramenta que serve apenas como orientação, não substituindo a consulta com o mastologista."}

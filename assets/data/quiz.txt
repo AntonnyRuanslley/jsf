@@ -1,0 +1,13 @@
+{
+"title" : "Teste de sintomas",
+"quest1" : "Presença de nódulo ou caroço que não dói?",
+"quest2" : "Alteração na coloração ou forma do mamilo?",
+"quest3" : "Liberação de líquido pelo mamilo?",
+"quest4" : "Alterações na pele da mama, como vermelhidão ou pele mais dura?",
+"quest5" : "Inchaço ou alteração no tamanho de uma das mamas?",
+"quest6" : "Coceira frequente na mama ou no mamilo?",
+"quest7" : "Alteração na coloração ou forma da aréola?",
+"quest8" : "Formação de crostas ou feridas na pele junto do mamilo?",
+"quest9" : "Veias facilmente observáveis e que aumentam de tamanho?",
+"quest10" : "Presença de um sulco na mama, como se fosse um afundamento?",
+"quest11" : "Caroços ou inchaço na região das ínguas da axila?"}

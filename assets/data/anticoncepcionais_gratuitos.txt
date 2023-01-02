@@ -1,0 +1,5 @@
+{
+"title" : "Anticoncepcionais gratuitos pelo SUS",
+"text1" : "* Pílula anticoncepcional combinada;\n* Minipílula anticoncepcional;\n* Anticoncepcionais injetáveis;\n* Diafragma;\n* Dispositivo intra-uterino – DIU;\n* Camisinha.",
+"subtitle1" : "Referência",
+"link1" : "https://avidaplena.com.br/se-conhecer-e-poder/?https://avidaplena.com.br/se-conhecer-e-poder/?utm_source=TS_Googleads&utm_campaign=SCEP&utm_id=TS_Google&utm_content=TS_Google_Search&gclid=Cj0KCQiA1NebBhDDARIsAANiDD3SpzoN864SS5FZCpbqeJ_SjoKYobL5FHWrH8AWwxcYNvkWj4Zt0cIaAv1wEALw_wcB"}

@@ -1,0 +1,18 @@
+{
+"title" : "Saúde íntima",
+"image1" : "assets/images/image1_saude_intima.png",
+"subtitle1" : "Introdução",
+"text1" : "A região íntima feminina é uma porta de entrada para bactérias, fungos e vírus que podem causar ardências, irritações, corrimentos, mau cheiro e até doenças. Mas, alguns cuidados simples com a higiene íntima feminina, na hora do banho, de se vestir e em como usar o papel higiênico, podem evitar essas complicações.",
+"subtitle2" : "O banho",
+"text2" : "Lave a região com bastante água, por cerca de dois minutos, sempre no sentido região vaginal para a anal, para evitar infecções que podem ser causadas por microrganismos presentes nas fezes. Logo após, seque a região com toalha de algodão.",
+"text3": "Antes de usar um produto para a higiene íntima veja se ele respeita o pH vaginal (que é ácido). O ideal é usar sabonetes neutros. Evite os que têm fórmulas com perfume, isso pode causar alergias. O mesmo vale para desodorantes íntimos e absorventes perfumados. É afastar delicadamente os lábios vaginais para limpar os sulcos entre eles. Mas as chamadas duchas íntimas não são indicadas para isso. Ao se limpar com o papel higiênico, sempre faça o movimentono sentido da frente para trás (da vulva para o ânus).",
+"subtitle3" : "Na hora de se vestir",
+"text4" : "Opte por calcinhas de algodão – que devem ser lavadas com sabão apropriado e secas no sol. Você também deve evitar ficar muito tempo com biquíni molhado.",
+"text5" : "Os absorventes também impedem a ventilação da região. Por isso, os utilize apenas no período menstrual. E os troque com frequência.",
+"subtitle4" : "Saúde íntima após a relação sexual",
+"text6" : "1. Faça Xixi;\n2. Lave a vagina e o ânus com água e sabonete(Lave apenas a região da vulva, ou seja, a parte externa da região íntima: os lábios maiores e menores, a virilha e assim por diante. Use sabonete íntimo ou neutro);\n3. Use lencinho umidecido.",
+"subtitle5" : "O que a falta de higiene íntima pode causar?", 
+"text7" : "Candidíase – Muito comum nas mulheres, tem como sinal a irritação vaginal, coceira intensa e corrimento branco.\nVaginose bacteriana – Tem como sintomas o corrimento branco-acinzentado que pode ou não ter cheiro e a coceira vaginal.\nAmbas as complicações podem ser tratadas com medicamentos.",
+"subtitle6" : "Referência", 
+"link1" : "https://mulherconsciente.com.br/dia-a-dia-com-saude/como-fazer-a-higiene-intima-feminina-da-forma-correta/", 
+"link2" : "https://www.kira.intimus.com.br/articles/saude-e-bem-estar/como-se-limpar-depois-da-relaxao-sexual#:~:text=Use%20sabonete%20%C3%ADntimo%20ou%20neutro,prote%C3%A7%C3%A3o%20natural%20da%20sua%20ppk"}

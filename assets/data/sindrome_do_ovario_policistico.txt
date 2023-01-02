@@ -1,0 +1,18 @@
+{
+"title" : "Sindrome do ovário policístico",
+"text1" : "A síndrome dos ovários policísticos(SOP) atinge grande parte da população feminina. É um disturbio hormonal comum, que pode causar problemas simples, como irregularidades menstrual e acne até outros mais graves como obesidade e infertilidade, que altera os niveis hormonais, o que provoca a formação de cistos nos ovarios e faz com que as glandulas aumentem de tamanho.",
+"text2" : "Os ovarios são dois orgãos, um de cada lado do útero, responsáveis pela produção de hormônios sexuais femininos. Cerca de 20% a 30% das mulheres podem desenvolverem cistos nos ovarios.",
+"text3" : "Os sintomas como ovulação comprometida e ciclo menstrual alterado e espaçamento- muitas mulheres menstruam apenas duas ou três vezes por ano.",
+"text4" : "Além de hisurtismo, que é o aumento dos pelos no rosto seios e abdomen. A obesidade- Há tendencia à obesidade sendo que ganho significativo de peso piora a sindrome.",
+"text5" : "Acne - Em virtude de maior produção de material oleoso pelas gladulas sebáceas.",
+"text6" : "Os sintomas e a gravidade variam de pessoa para pessoa. Para ser diagnosticado com a doença, é preciso ter pelo menos dois dos seguintes sinais:",
+"text7" : "Menstruação anormal, por exemplo, com intervalos menstruais de 35 dias, menos de oito ciclos menstruais por ano, amenorreia por quatro meses ou mais e períodos de menstruação intensa e prolongada.",
+"text8" : "Níveis elevados de hormônios masculinos(andrógenos), que podem resultar em características físicas como excesso de pelos faciais e no corpo, acne adulta ou adolescente severa, calvície de padrão masculino. Pequenos cistos nos ovários identificados em ultrassonografia.",
+"text9" : "Não existem testes específicos para diagnosticar a síndrome dos ovários policísticos. O diagnóstico é feito por exclusão, ou seja, os médicos consideram todos os sinais que você está sofrendo e excluem outras possibilidades até chegar a uma conclusão. Durante o processo, o médico poderá examinar alguns pontos:",
+"text10" : "* Histórico médico, com informações sobre características da menstruação e sintomas recentes;\n* Exame físico, incluindo informações como peso atual, altura e pressão arterial;\n* Exame pélvico;\n* Exames de sangue;\n* Ultrassonografia pélvica.",
+"text11" : "Menstruação anormal, por exemplo, com intervalos menstruais de 35 dias, menos de oito ciclos menstruais por ano, amenorreia por quatro meses ou mais e períodos de menstruação intensa e prolongada.", 
+"text12" : "O médico pode prescrever medicamentos para:", 
+"text13" : "* Regular seu ciclo menstrual, como pílulas anticoncepcionais;\n* Reduzir os níveis de insulina e prevenir diabetes tipo 2, como a metformina;\n* Ajudar na ovulação, como os indutores de ovulação (citrato de clomifeno, por exemplo);\n* Reduzir o crescimento excessivo de pelos, como inibidores de hormônios andrógenos.",
+"subtitle1" : "Referências",
+"link1" : "https://cdn.publisher.gn1.link/adolescenciaesaude.com/pdf/v4n2a08.pdf. Acesso em 26 de setembro de 2022.", 
+"link2" : "https://drauziovarella.uol.com.br/. Acesso em 26 de setembro de 2022."}

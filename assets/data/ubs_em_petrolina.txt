@@ -1,0 +1,18 @@
+{
+"title" : "UBS em Petrolina",
+"subtitle1" : "UBS Miguel De Lima Durando-Lot. Recife",
+"text1" : "1. Lot. Recife, Petrolina- Travessa da rua 5 é rua 22\n2. Abre às 07:00 hr\n3. Médico se encontra Seg, ter, quar e sex", 
+"subtitle2" : "Posto de Saúde- Terra do Sul",
+"text2" : "1. R. Joaquim Sabino da Silva, 52- Terras do Sul\n2. Abre às 08:00 hrs\n3. Médico se encontra Seg, ter, qua, qui e sex", 
+"subtitle3" : "Posto de Saúde - Jardim Maravilha",
+"text3" : "1. R. Terra nova, 745- Jardim Maravilha\n2. Abre às 08:00 hrs\n3. Médico se encontra Seg, ter, qua, qui e sex", 
+"subtitle4" : "UBS- Antônio Cassimiro",
+"text4" : "1. R. das Violetas, 141- Antônio Cassimiro\n2. Abre às 08:00 hrs\n3. Médico se encontra Seg, ter, qua, qui e sex", 
+"subtitle5" : "UBS- Lua Bezerra",
+"text5" : "1. Av. Francisco Coelho Amorim 655-705– José e Maria\n2. Abre às 08:00 hrs\n3. Médico se encontra Seg, ter, qua, qui e sex",
+"subtitle6" : "Ame Roza Maria Ribeiro",
+"text6" : "1. Av. das Nações, 260 - Gercino Coelho\n2. Abre às 08:00 hrs\n3. Médico se encontra Seg, ter, qua, qui e sex",
+"subtitle7" : "Unidade Básica de Saúde (UBS) Nova Petrolina",
+"text7" : "1. R. Quinze - COHAB São Francisco\n2. Abre às 08:00 hrs\n3. Médico se encontra Seg, ter, qua, qui e sex",
+"subtitle8" : "UBS - N6 (Unidade Básica de Saúde - Projeto N6)",
+"text8" : "1. Rua A, 100 - Centro, Petrolina\n2. Abre às 07:00 hrs\n3. Médico se encontra Seg, ter, qua, qui e sex"}
